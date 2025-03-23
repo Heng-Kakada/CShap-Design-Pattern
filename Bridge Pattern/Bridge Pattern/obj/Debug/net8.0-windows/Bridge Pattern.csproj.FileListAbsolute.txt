@@ -1,0 +1,17 @@
+D:\Design Pattern\c--design-pattern\Bridge Pattern\Bridge Pattern\bin\Debug\net8.0-windows\Bridge Pattern.exe
+D:\Design Pattern\c--design-pattern\Bridge Pattern\Bridge Pattern\bin\Debug\net8.0-windows\Bridge Pattern.deps.json
+D:\Design Pattern\c--design-pattern\Bridge Pattern\Bridge Pattern\bin\Debug\net8.0-windows\Bridge Pattern.runtimeconfig.json
+D:\Design Pattern\c--design-pattern\Bridge Pattern\Bridge Pattern\bin\Debug\net8.0-windows\Bridge Pattern.dll
+D:\Design Pattern\c--design-pattern\Bridge Pattern\Bridge Pattern\bin\Debug\net8.0-windows\Bridge Pattern.pdb
+D:\Design Pattern\c--design-pattern\Bridge Pattern\Bridge Pattern\obj\Debug\net8.0-windows\Bridge_Pattern.Form1.resources
+D:\Design Pattern\c--design-pattern\Bridge Pattern\Bridge Pattern\obj\Debug\net8.0-windows\Bridge Pattern.csproj.GenerateResource.cache
+D:\Design Pattern\c--design-pattern\Bridge Pattern\Bridge Pattern\obj\Debug\net8.0-windows\Bridge Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Pattern\c--design-pattern\Bridge Pattern\Bridge Pattern\obj\Debug\net8.0-windows\Bridge Pattern.AssemblyInfoInputs.cache
+D:\Design Pattern\c--design-pattern\Bridge Pattern\Bridge Pattern\obj\Debug\net8.0-windows\Bridge Pattern.AssemblyInfo.cs
+D:\Design Pattern\c--design-pattern\Bridge Pattern\Bridge Pattern\obj\Debug\net8.0-windows\Bridge Pattern.csproj.CoreCompileInputs.cache
+D:\Design Pattern\c--design-pattern\Bridge Pattern\Bridge Pattern\obj\Debug\net8.0-windows\Bridge Pattern.sourcelink.json
+D:\Design Pattern\c--design-pattern\Bridge Pattern\Bridge Pattern\obj\Debug\net8.0-windows\Bridge Pattern.dll
+D:\Design Pattern\c--design-pattern\Bridge Pattern\Bridge Pattern\obj\Debug\net8.0-windows\refint\Bridge Pattern.dll
+D:\Design Pattern\c--design-pattern\Bridge Pattern\Bridge Pattern\obj\Debug\net8.0-windows\Bridge Pattern.pdb
+D:\Design Pattern\c--design-pattern\Bridge Pattern\Bridge Pattern\obj\Debug\net8.0-windows\Bridge Pattern.genruntimeconfig.cache
+D:\Design Pattern\c--design-pattern\Bridge Pattern\Bridge Pattern\obj\Debug\net8.0-windows\ref\Bridge Pattern.dll

@@ -1,40 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Design Pattern\\DecoratorExample\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|d:\\design pattern\\decoratorexample\\decoratorexample\\formdrinkintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|solutionrelative:decoratorexample\\formdrinkintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|d:\\design pattern\\decoratorexample\\decoratorexample\\mix\\drinkmixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|solutionrelative:decoratorexample\\mix\\drinkmixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|d:\\design pattern\\decoratorexample\\decoratorexample\\mix\\sub\\coffeemixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|solutionrelative:decoratorexample\\mix\\sub\\coffeemixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|d:\\design pattern\\decoratorexample\\decoratorexample\\mix\\sub\\watermixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|solutionrelative:decoratorexample\\mix\\sub\\watermixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|d:\\design pattern\\decoratorexample\\decoratorexample\\mix\\sub\\sugarmixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|solutionrelative:decoratorexample\\mix\\sub\\sugarmixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|d:\\design pattern\\decoratorexample\\decoratorexample\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|solutionrelative:decoratorexample\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|d:\\design pattern\\decoratorexample\\decoratorexample\\abstractdrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|solutionrelative:decoratorexample\\abstractdrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|d:\\design pattern\\decoratorexample\\decoratorexample\\mix\\sub\\milkmixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|solutionrelative:decoratorexample\\mix\\sub\\milkmixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -42,115 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 215,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormDrinkIntegration.cs",
-              "DocumentMoniker": "D:\\Design Pattern\\DecoratorExample\\DecoratorExample\\FormDrinkIntegration.cs",
-              "RelativeDocumentMoniker": "DecoratorExample\\FormDrinkIntegration.cs",
-              "ToolTip": "D:\\Design Pattern\\DecoratorExample\\DecoratorExample\\FormDrinkIntegration.cs",
-              "RelativeToolTip": "DecoratorExample\\FormDrinkIntegration.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwBwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T10:02:07.603Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AbstractDrink.cs",
-              "DocumentMoniker": "D:\\Design Pattern\\DecoratorExample\\DecoratorExample\\AbstractDrink.cs",
-              "RelativeDocumentMoniker": "DecoratorExample\\AbstractDrink.cs",
-              "ToolTip": "D:\\Design Pattern\\DecoratorExample\\DecoratorExample\\AbstractDrink.cs",
-              "RelativeToolTip": "DecoratorExample\\AbstractDrink.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T10:06:41.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Drink.cs",
-              "DocumentMoniker": "D:\\Design Pattern\\DecoratorExample\\DecoratorExample\\Drink.cs",
-              "RelativeDocumentMoniker": "DecoratorExample\\Drink.cs",
-              "ToolTip": "D:\\Design Pattern\\DecoratorExample\\DecoratorExample\\Drink.cs",
-              "RelativeToolTip": "DecoratorExample\\Drink.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCAAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T10:19:01.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DrinkMixing.cs",
-              "DocumentMoniker": "D:\\Design Pattern\\DecoratorExample\\DecoratorExample\\mix\\DrinkMixing.cs",
-              "RelativeDocumentMoniker": "DecoratorExample\\mix\\DrinkMixing.cs",
-              "ToolTip": "D:\\Design Pattern\\DecoratorExample\\DecoratorExample\\mix\\DrinkMixing.cs",
-              "RelativeToolTip": "DecoratorExample\\mix\\DrinkMixing.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T10:31:20.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CoffeeMixing.cs",
-              "DocumentMoniker": "D:\\Design Pattern\\DecoratorExample\\DecoratorExample\\mix\\sub\\CoffeeMixing.cs",
-              "RelativeDocumentMoniker": "DecoratorExample\\mix\\sub\\CoffeeMixing.cs",
-              "ToolTip": "D:\\Design Pattern\\DecoratorExample\\DecoratorExample\\mix\\sub\\CoffeeMixing.cs",
-              "RelativeToolTip": "DecoratorExample\\mix\\sub\\CoffeeMixing.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAmwCAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T10:39:11.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MilkMixing.cs",
-              "DocumentMoniker": "D:\\Design Pattern\\DecoratorExample\\DecoratorExample\\mix\\sub\\MilkMixing.cs",
-              "RelativeDocumentMoniker": "DecoratorExample\\mix\\sub\\MilkMixing.cs",
-              "ToolTip": "D:\\Design Pattern\\DecoratorExample\\DecoratorExample\\mix\\sub\\MilkMixing.cs",
-              "RelativeToolTip": "DecoratorExample\\mix\\sub\\MilkMixing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCwAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T10:19:22.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SugarMixing.cs",
-              "DocumentMoniker": "D:\\Design Pattern\\DecoratorExample\\DecoratorExample\\mix\\sub\\SugarMixing.cs",
-              "RelativeDocumentMoniker": "DecoratorExample\\mix\\sub\\SugarMixing.cs",
-              "ToolTip": "D:\\Design Pattern\\DecoratorExample\\DecoratorExample\\mix\\sub\\SugarMixing.cs",
-              "RelativeToolTip": "DecoratorExample\\mix\\sub\\SugarMixing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T10:19:21.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WaterMixing.cs",
-              "DocumentMoniker": "D:\\Design Pattern\\DecoratorExample\\DecoratorExample\\mix\\sub\\WaterMixing.cs",
-              "RelativeDocumentMoniker": "DecoratorExample\\mix\\sub\\WaterMixing.cs",
-              "ToolTip": "D:\\Design Pattern\\DecoratorExample\\DecoratorExample\\mix\\sub\\WaterMixing.cs",
-              "RelativeToolTip": "DecoratorExample\\mix\\sub\\WaterMixing.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwB8AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T10:19:16.431Z",
-              "EditorCaption": ""
             }
           ]
         }

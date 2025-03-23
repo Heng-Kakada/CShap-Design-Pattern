@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Design Pattern\\c--design-pattern\\Bridge Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C444281F-EDA4-4ACD-9AC0-A2722AEA7717}|Bridge Pattern\\Bridge Pattern.csproj|d:\\design pattern\\c--design-pattern\\bridge pattern\\bridge pattern\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C444281F-EDA4-4ACD-9AC0-A2722AEA7717}|Bridge Pattern\\Bridge Pattern.csproj|solutionrelative:bridge pattern\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C444281F-EDA4-4ACD-9AC0-A2722AEA7717}|Bridge Pattern\\Bridge Pattern.csproj|d:\\design pattern\\c--design-pattern\\bridge pattern\\bridge pattern\\fieldview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C444281F-EDA4-4ACD-9AC0-A2722AEA7717}|Bridge Pattern\\Bridge Pattern.csproj|solutionrelative:bridge pattern\\fieldview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C444281F-EDA4-4ACD-9AC0-A2722AEA7717}|Bridge Pattern\\Bridge Pattern.csproj|d:\\design pattern\\c--design-pattern\\bridge pattern\\bridge pattern\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C444281F-EDA4-4ACD-9AC0-A2722AEA7717}|Bridge Pattern\\Bridge Pattern.csproj|solutionrelative:bridge pattern\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C444281F-EDA4-4ACD-9AC0-A2722AEA7717}|Bridge Pattern\\Bridge Pattern.csproj|d:\\design pattern\\c--design-pattern\\bridge pattern\\bridge pattern\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C444281F-EDA4-4ACD-9AC0-A2722AEA7717}|Bridge Pattern\\Bridge Pattern.csproj|solutionrelative:bridge pattern\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C444281F-EDA4-4ACD-9AC0-A2722AEA7717}|Bridge Pattern\\Bridge Pattern.csproj|d:\\design pattern\\c--design-pattern\\bridge pattern\\bridge pattern\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C444281F-EDA4-4ACD-9AC0-A2722AEA7717}|Bridge Pattern\\Bridge Pattern.csproj|solutionrelative:bridge pattern\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C444281F-EDA4-4ACD-9AC0-A2722AEA7717}|Bridge Pattern\\Bridge Pattern.csproj|d:\\design pattern\\c--design-pattern\\bridge pattern\\bridge pattern\\singlelineview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C444281F-EDA4-4ACD-9AC0-A2722AEA7717}|Bridge Pattern\\Bridge Pattern.csproj|solutionrelative:bridge pattern\\singlelineview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C444281F-EDA4-4ACD-9AC0-A2722AEA7717}|Bridge Pattern\\Bridge Pattern.csproj|d:\\design pattern\\c--design-pattern\\bridge pattern\\bridge pattern\\dataitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C444281F-EDA4-4ACD-9AC0-A2722AEA7717}|Bridge Pattern\\Bridge Pattern.csproj|solutionrelative:bridge pattern\\dataitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C444281F-EDA4-4ACD-9AC0-A2722AEA7717}|Bridge Pattern\\Bridge Pattern.csproj|d:\\design pattern\\c--design-pattern\\bridge pattern\\bridge pattern\\objectview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C444281F-EDA4-4ACD-9AC0-A2722AEA7717}|Bridge Pattern\\Bridge Pattern.csproj|solutionrelative:bridge pattern\\objectview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C444281F-EDA4-4ACD-9AC0-A2722AEA7717}|Bridge Pattern\\Bridge Pattern.csproj|d:\\design pattern\\c--design-pattern\\bridge pattern\\bridge pattern\\iobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C444281F-EDA4-4ACD-9AC0-A2722AEA7717}|Bridge Pattern\\Bridge Pattern.csproj|solutionrelative:bridge pattern\\iobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Design Pattern\\c--design-pattern\\Bridge Pattern\\Bridge Pattern\\Form1.cs",
+              "RelativeDocumentMoniker": "Bridge Pattern\\Form1.cs",
+              "ToolTip": "D:\\Design Pattern\\c--design-pattern\\Bridge Pattern\\Bridge Pattern\\Form1.cs",
+              "RelativeToolTip": "Bridge Pattern\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:01:11.218Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\Design Pattern\\c--design-pattern\\Bridge Pattern\\Bridge Pattern\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Bridge Pattern\\Rectangle.cs",
+              "ToolTip": "D:\\Design Pattern\\c--design-pattern\\Bridge Pattern\\Bridge Pattern\\Rectangle.cs",
+              "RelativeToolTip": "Bridge Pattern\\Rectangle.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:10:50.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FieldView.cs",
+              "DocumentMoniker": "D:\\Design Pattern\\c--design-pattern\\Bridge Pattern\\Bridge Pattern\\FieldView.cs",
+              "RelativeDocumentMoniker": "Bridge Pattern\\FieldView.cs",
+              "ToolTip": "D:\\Design Pattern\\c--design-pattern\\Bridge Pattern\\Bridge Pattern\\FieldView.cs",
+              "RelativeToolTip": "Bridge Pattern\\FieldView.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:09:01.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SingleLineView.cs",
+              "DocumentMoniker": "D:\\Design Pattern\\c--design-pattern\\Bridge Pattern\\Bridge Pattern\\SingleLineView.cs",
+              "RelativeDocumentMoniker": "Bridge Pattern\\SingleLineView.cs",
+              "ToolTip": "D:\\Design Pattern\\c--design-pattern\\Bridge Pattern\\Bridge Pattern\\SingleLineView.cs",
+              "RelativeToolTip": "Bridge Pattern\\SingleLineView.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:58:04.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ObjectView.cs",
+              "DocumentMoniker": "D:\\Design Pattern\\c--design-pattern\\Bridge Pattern\\Bridge Pattern\\ObjectView.cs",
+              "RelativeDocumentMoniker": "Bridge Pattern\\ObjectView.cs",
+              "ToolTip": "D:\\Design Pattern\\c--design-pattern\\Bridge Pattern\\Bridge Pattern\\ObjectView.cs",
+              "RelativeToolTip": "Bridge Pattern\\ObjectView.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwEMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:57:25.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Design Pattern\\c--design-pattern\\Bridge Pattern\\Bridge Pattern\\Student.cs",
+              "RelativeDocumentMoniker": "Bridge Pattern\\Student.cs",
+              "ToolTip": "D:\\Design Pattern\\c--design-pattern\\Bridge Pattern\\Bridge Pattern\\Student.cs",
+              "RelativeToolTip": "Bridge Pattern\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:56:40.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IObject.cs",
+              "DocumentMoniker": "D:\\Design Pattern\\c--design-pattern\\Bridge Pattern\\Bridge Pattern\\IObject.cs",
+              "RelativeDocumentMoniker": "Bridge Pattern\\IObject.cs",
+              "ToolTip": "D:\\Design Pattern\\c--design-pattern\\Bridge Pattern\\Bridge Pattern\\IObject.cs",
+              "RelativeToolTip": "Bridge Pattern\\IObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:55:54.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataItem.cs",
+              "DocumentMoniker": "D:\\Design Pattern\\c--design-pattern\\Bridge Pattern\\Bridge Pattern\\DataItem.cs",
+              "RelativeDocumentMoniker": "Bridge Pattern\\DataItem.cs",
+              "ToolTip": "D:\\Design Pattern\\c--design-pattern\\Bridge Pattern\\Bridge Pattern\\DataItem.cs",
+              "RelativeToolTip": "Bridge Pattern\\DataItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:55:17.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Design Pattern\\c--design-pattern\\Bridge Pattern\\Bridge Pattern\\Form1.cs",
+              "RelativeDocumentMoniker": "Bridge Pattern\\Form1.cs",
+              "ToolTip": "D:\\Design Pattern\\c--design-pattern\\Bridge Pattern\\Bridge Pattern\\Form1.cs [Design]",
+              "RelativeToolTip": "Bridge Pattern\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:54:11.741Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

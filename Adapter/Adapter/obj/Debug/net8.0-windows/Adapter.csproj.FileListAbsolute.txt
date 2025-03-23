@@ -1,0 +1,17 @@
+D:\Design Pattern\c--design-pattern\Adapter\Adapter\bin\Debug\net8.0-windows\Adapter.exe
+D:\Design Pattern\c--design-pattern\Adapter\Adapter\bin\Debug\net8.0-windows\Adapter.deps.json
+D:\Design Pattern\c--design-pattern\Adapter\Adapter\bin\Debug\net8.0-windows\Adapter.runtimeconfig.json
+D:\Design Pattern\c--design-pattern\Adapter\Adapter\bin\Debug\net8.0-windows\Adapter.dll
+D:\Design Pattern\c--design-pattern\Adapter\Adapter\bin\Debug\net8.0-windows\Adapter.pdb
+D:\Design Pattern\c--design-pattern\Adapter\Adapter\obj\Debug\net8.0-windows\Adapter.Form1.resources
+D:\Design Pattern\c--design-pattern\Adapter\Adapter\obj\Debug\net8.0-windows\Adapter.csproj.GenerateResource.cache
+D:\Design Pattern\c--design-pattern\Adapter\Adapter\obj\Debug\net8.0-windows\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Pattern\c--design-pattern\Adapter\Adapter\obj\Debug\net8.0-windows\Adapter.AssemblyInfoInputs.cache
+D:\Design Pattern\c--design-pattern\Adapter\Adapter\obj\Debug\net8.0-windows\Adapter.AssemblyInfo.cs
+D:\Design Pattern\c--design-pattern\Adapter\Adapter\obj\Debug\net8.0-windows\Adapter.csproj.CoreCompileInputs.cache
+D:\Design Pattern\c--design-pattern\Adapter\Adapter\obj\Debug\net8.0-windows\Adapter.sourcelink.json
+D:\Design Pattern\c--design-pattern\Adapter\Adapter\obj\Debug\net8.0-windows\Adapter.dll
+D:\Design Pattern\c--design-pattern\Adapter\Adapter\obj\Debug\net8.0-windows\refint\Adapter.dll
+D:\Design Pattern\c--design-pattern\Adapter\Adapter\obj\Debug\net8.0-windows\Adapter.pdb
+D:\Design Pattern\c--design-pattern\Adapter\Adapter\obj\Debug\net8.0-windows\Adapter.genruntimeconfig.cache
+D:\Design Pattern\c--design-pattern\Adapter\Adapter\obj\Debug\net8.0-windows\ref\Adapter.dll

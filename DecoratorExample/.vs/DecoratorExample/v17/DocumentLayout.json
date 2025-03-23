@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Design Pattern\\DecoratorExample\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Design Pattern\\c--design-pattern\\DecoratorExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|d:\\design pattern\\c--design-pattern\\decoratorexample\\decoratorexample\\mix\\sub\\watermixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|solutionrelative:decoratorexample\\mix\\sub\\watermixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|d:\\design pattern\\c--design-pattern\\decoratorexample\\decoratorexample\\mix\\sub\\sugarmixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|solutionrelative:decoratorexample\\mix\\sub\\sugarmixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|d:\\design pattern\\c--design-pattern\\decoratorexample\\decoratorexample\\mix\\sub\\milkmixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|solutionrelative:decoratorexample\\mix\\sub\\milkmixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|d:\\design pattern\\c--design-pattern\\decoratorexample\\decoratorexample\\mix\\sub\\coffeemixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE65775-595A-472D-936F-138C20D3203B}|DecoratorExample\\DecoratorExample.csproj|solutionrelative:decoratorexample\\mix\\sub\\coffeemixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 215,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WaterMixing.cs",
+              "DocumentMoniker": "D:\\Design Pattern\\c--design-pattern\\DecoratorExample\\DecoratorExample\\mix\\sub\\WaterMixing.cs",
+              "RelativeDocumentMoniker": "DecoratorExample\\mix\\sub\\WaterMixing.cs",
+              "ToolTip": "D:\\Design Pattern\\c--design-pattern\\DecoratorExample\\DecoratorExample\\mix\\sub\\WaterMixing.cs",
+              "RelativeToolTip": "DecoratorExample\\mix\\sub\\WaterMixing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:23:29.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SugarMixing.cs",
+              "DocumentMoniker": "D:\\Design Pattern\\c--design-pattern\\DecoratorExample\\DecoratorExample\\mix\\sub\\SugarMixing.cs",
+              "RelativeDocumentMoniker": "DecoratorExample\\mix\\sub\\SugarMixing.cs",
+              "ToolTip": "D:\\Design Pattern\\c--design-pattern\\DecoratorExample\\DecoratorExample\\mix\\sub\\SugarMixing.cs",
+              "RelativeToolTip": "DecoratorExample\\mix\\sub\\SugarMixing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:22:59.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MilkMixing.cs",
+              "DocumentMoniker": "D:\\Design Pattern\\c--design-pattern\\DecoratorExample\\DecoratorExample\\mix\\sub\\MilkMixing.cs",
+              "RelativeDocumentMoniker": "DecoratorExample\\mix\\sub\\MilkMixing.cs",
+              "ToolTip": "D:\\Design Pattern\\c--design-pattern\\DecoratorExample\\DecoratorExample\\mix\\sub\\MilkMixing.cs",
+              "RelativeToolTip": "DecoratorExample\\mix\\sub\\MilkMixing.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:22:10.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoffeeMixing.cs",
+              "DocumentMoniker": "D:\\Design Pattern\\c--design-pattern\\DecoratorExample\\DecoratorExample\\mix\\sub\\CoffeeMixing.cs",
+              "RelativeDocumentMoniker": "DecoratorExample\\mix\\sub\\CoffeeMixing.cs",
+              "ToolTip": "D:\\Design Pattern\\c--design-pattern\\DecoratorExample\\DecoratorExample\\mix\\sub\\CoffeeMixing.cs",
+              "RelativeToolTip": "DecoratorExample\\mix\\sub\\CoffeeMixing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:22:06.491Z",
+              "EditorCaption": ""
             }
           ]
         }
