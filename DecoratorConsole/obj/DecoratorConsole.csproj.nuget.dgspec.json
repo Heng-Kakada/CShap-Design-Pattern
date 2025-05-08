@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorExample/DecoratorExample/DecoratorExample.csproj": {}
+    "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorConsole/DecoratorConsole.csproj": {}
   },
   "projects": {
-    "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorExample/DecoratorExample/DecoratorExample.csproj": {
+    "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorConsole/DecoratorConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorExample/DecoratorExample/DecoratorExample.csproj",
-        "projectName": "DecoratorExample",
-        "projectPath": "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorExample/DecoratorExample/DecoratorExample.csproj",
+        "projectUniqueName": "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorConsole/DecoratorConsole.csproj",
+        "projectName": "DecoratorConsole",
+        "projectPath": "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorConsole/DecoratorConsole.csproj",
         "packagesPath": "/Users/hengkakada/.nuget/packages/",
-        "outputPath": "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorExample/DecoratorExample/obj/",
+        "outputPath": "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hengkakada/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-windows"
+          "net9.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0-windows7.0": {
-            "targetAlias": "net8.0-windows",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -37,11 +37,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -56,12 +57,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/hengkakada/.dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/hengkakada/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
