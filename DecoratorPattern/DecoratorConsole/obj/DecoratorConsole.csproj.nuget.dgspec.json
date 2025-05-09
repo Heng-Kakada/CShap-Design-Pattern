@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorConsole/DecoratorConsole.csproj": {}
+    "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorPattern/DecoratorConsole/DecoratorConsole.csproj": {}
   },
   "projects": {
-    "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorConsole/DecoratorConsole.csproj": {
+    "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorPattern/DecoratorConsole/DecoratorConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorConsole/DecoratorConsole.csproj",
+        "projectUniqueName": "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorPattern/DecoratorConsole/DecoratorConsole.csproj",
         "projectName": "DecoratorConsole",
-        "projectPath": "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorConsole/DecoratorConsole.csproj",
+        "projectPath": "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorPattern/DecoratorConsole/DecoratorConsole.csproj",
         "packagesPath": "/Users/hengkakada/.nuget/packages/",
-        "outputPath": "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorConsole/obj/",
+        "outputPath": "/Volumes/Development Mode/The Secrete Project/Design-Pattern/DecoratorPattern/DecoratorConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hengkakada/.nuget/NuGet/NuGet.Config"
