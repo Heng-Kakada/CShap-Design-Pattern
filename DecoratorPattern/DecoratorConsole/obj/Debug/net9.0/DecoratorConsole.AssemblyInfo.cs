@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DecoratorConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+115572771bdb63c67ab41bf8e39807e34075a717")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c065dee05c8a4cb5874fe1eb1ef0a27cc680fb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("DecoratorConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DecoratorConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
